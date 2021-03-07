@@ -15,4 +15,6 @@ Dataset used is housing.csv
 
 Jupter notebook is End-to-End ML_ Housing
 
+Final saved model can be foubd in final_model(zipped)
+
 Acknowledge:Aurelien Geron
