@@ -11,4 +11,7 @@ It considers the following "HOWS" in a Machine learning project:
 
 It gives some statements in-between to provide some clarifications in the Jupyter notebook
 
+Dataset used is housing.csv
+Jupter notebook is End-to-End ML_ Housing
+
 Acknowledge:Aurelien Geron
